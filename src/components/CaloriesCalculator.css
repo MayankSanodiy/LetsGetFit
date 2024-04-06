@@ -1,0 +1,86 @@
+.calro {
+    max-width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.form-head {
+    width: 100%;
+    height: auto;
+    background-color: #fafafb;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.form-head h2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.caltrac {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.form {
+    width: 100%;
+    max-width: 600px; 
+}
+
+.form-example {
+    margin: 10px 0;
+}
+
+.bttn {
+    text-align: center;
+    
+}
+
+.bttn input {
+    font-weight: 900;
+    background-color: #778899;
+    border-radius: 3px;
+}
+
+.agein {
+    margin-left: 0; 
+}
+
+.paragraph {
+    width: 100%;
+    font-size: x-small;
+    background-color: rgb(205, 205, 81);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.paragraph p {
+    margin: 10px;
+}
+
+.resultCal {
+    width: 100%;
+    background-color: #fff5d7;
+    
+    padding: 1px;
+    border: 2px solid black;
+    text-decoration: underline;
+    font-weight: 700;
+    height: auto;
+}
+select{
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+@media (max-width: 768px) {
+    select {
+      font-size: 0.9rem; 
+    }
+  }
+
+  

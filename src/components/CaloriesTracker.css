@@ -1,0 +1,42 @@
+.div-1{
+  
+  color: rgb(36, 2, 54);
+  top: 0%;
+}
+.div-1 h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gap{
+  margin-left: 2%;
+}
+
+.pp{
+  color: #164c6b;
+  font-weight: bold;
+  font-size: 90%;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+td {
+    border: 1px solid #ddd;
+    font-size: 80%;
+  }
+ 
+  
+  th {
+    background-color: #f2f2f2;
+    border: 1px solid #090909;
+    font-size: 80%;
+  }
+  .result{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: auto;
+    border-radius: 10px;
+    background-color:  #f8ce11 ;
+    color: #121111;
+    margin-top: 2%;
+  }
